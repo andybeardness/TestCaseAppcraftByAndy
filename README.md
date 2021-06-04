@@ -9,7 +9,7 @@
 - - [adapters](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/adapters) — адаптеры
 - - [models](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/models) — модели
 - - [retrofit](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/retrofit) — для Retrofit
-- - [room](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/room) — для Romm
+- - [room](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/room) — для Room
 - - [ui](https://github.com/andybeardness/TestCaseAppcraftByAndy/tree/main/app/src/main/java/com/beardness/testcaseappcraftbyandy/ui) — UI
 
 Что сделал :
